@@ -4,6 +4,6 @@ const user = {
   age: 23,
   address: "SP, Brazil",
   formation: "TADS 1/4",
-  skills: ["ReactJS", "NodeJS"],
+  skills: ["React", "NodeJS"],
 };
 ```
