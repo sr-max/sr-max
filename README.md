@@ -1,21 +1,18 @@
-``` javascript
+``` typescript
 const user = {
  name: "Lucas Maximiano",
- age: 23,
+ age: 24,
  address: "SP, Brazil",
- formation: "TADS 2/4",
+ formation: "TADS 3/4",
  work: "We.Digi Tech",
  skills: {
   front_end: [
-   "JavaScript",
-   "HTML5",
-   "CSS3",
-   "SASS",
-   "ReactJS"
+   "TypeScript",
+   "Styled-Components",
+   "NextJS"
   ],
   back_end: [
    "NodeJS",
-   "ExpressJS",
    "MongoDB"
   ]
  }
